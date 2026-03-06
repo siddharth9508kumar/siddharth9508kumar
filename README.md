@@ -1,6 +1,7 @@
 Hi 👋 I'm Siddharth Kumar
 
-👨‍💻 Who I Am
+👨‍💻 Who I Am:-
+
 I am a 2nd Year Computer Science Engineering (AI & ML) student who is passionate about technology, machine learning, and web development.
 
 I enjoy learning new technologies and building projects that solve real-world problems. Currently, I am focusing on improving my programming, data analysis, and machine learning skills while building projects for my portfolio.
