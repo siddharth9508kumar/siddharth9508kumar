@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi 👋 I'm Siddharth Kumar
 
-<!--
-**siddharth9508kumar/siddharth9508kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Who I Am
+I am a 2nd Year Computer Science Engineering (AI & ML) student who is passionate about technology, machine learning, and web development.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and building projects that solve real-world problems. Currently, I am focusing on improving my programming, data analysis, and machine learning skills while building projects for my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Currently Working On
+
+📊 Learning Machine Learning algorithms
+
+🤖 Building Python and ML projects
+
+🌐 Developing portfolio and small web applications
+
+
+🛠️ Tools & Technologies I Use
+
+Programming
+
+Python
+
+HTML
+
+CSS
+
+JavaScript (basic)
+
+Machine Learning & Data
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+## Development Tools
+
+VS Code
+
+Git & GitHub
+
+Jupyter Notebook
+
+Netlify
+
+
+#📫 How to Reach Me
+
+📧 Email:siddharth9508.kumar@gmail.com
+
+💻 GitHub: https://github.com/siddharth9508kumar
+
+
+⭐ Always learning, building projects, and improving my skills.
