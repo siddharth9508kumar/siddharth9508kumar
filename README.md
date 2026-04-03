@@ -41,7 +41,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 | 🤖 Project on ML | Python Projects |
 |---|---|
-| Short description of what this project does. | Short description of what this project does. |
+| This repository contains my Machine Learning practice codes and mini-projects built while learning and experimenting with different ML concepts. | Real-world Python applications simulating practical systems like billing, booking, password management, and financial transactions. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-1D9E75?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-7F77DD?style=flat-square) |
 | [GitHub](https://github.com/siddharth9508kumar/Machine-Learning-) · [Demo](#) | [GitHub](https://github.com/siddharth9508kumar/advance-python-projects-) · [Demo](#) |
 
