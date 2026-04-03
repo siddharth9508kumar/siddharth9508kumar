@@ -34,13 +34,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api? username=
-siddharth9508kumar&show_icons=true&theme=tokyonight&hide_border=true)
-
-
----
-
+## 📫 Connect With Me
+📧 Email: siddharth9508.kumar@gmail.com
+💻 GitHub: https://github.com/siddharth9508kumar
 ⭐ *Always learning · Always building · Always growing*
