@@ -37,8 +37,9 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 ## 📈 GitHub Stats
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api? username=
+siddharth9508kumar&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
