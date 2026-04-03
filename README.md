@@ -23,6 +23,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,6 +35,18 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+## 🚀 Projects
+
+<div align="left">
+
+| 🤖 Project Name 1 | 🧠 Project Name 2 |
+|---|---|
+| Short description of what this project does. | Short description of what this project does. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-1D9E75?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-7F77DD?style=flat-square) |
+| [GitHub](https://github.com/YOUR_USERNAME/repo1) · [Demo](#) | [GitHub](https://github.com/YOUR_USERNAME/repo2) · [Demo](#) |
+
+</div>
+
 ## 📫 Connect With Me
 📧 Email: siddharth9508.kumar@gmail.com
 💻 GitHub: https://github.com/siddharth9508kumar
