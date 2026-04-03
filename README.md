@@ -43,7 +43,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 |---|---|
 | Short description of what this project does. | Short description of what this project does. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-1D9E75?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-7F77DD?style=flat-square) |
-| [GitHub]((https://github.com/siddharth9508kumar/Machine-Learning-)) | [GitHub]((https://github.com/siddharth9508kumar/advance-python-projects-)) |
+| [GitHub](https://github.com/siddharth9508kumar/Machine-Learning-) · [Demo](#) | [GitHub](https://github.com/siddharth9508kumar/advance-python-projects-) · [Demo](#) |
 
 </div>
 
