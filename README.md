@@ -16,7 +16,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 
 ## 🔭 Currently
 
-- 🎓 2nd Year B.Tech in Computer Science Engineering
+- 🎓 3rd Year B.Tech in Computer Science Engineering
 - 🤖 Deep-diving into AI & ML concepts and projects
 - 🛠️ Building side projects to apply what I learn
 - 📚 Always learning, always growing
