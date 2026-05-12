@@ -1,7 +1,7 @@
 # Hi, I'm Siddharth Kumar 👋
 
 [![Actively Learning](https://img.shields.io/badge/Status-Actively%20Learning%20%26%20Building-brightgreen?style=flat-square&logo=circle&logoColor=white)](https://github.com/siddharth-kumar)
-[![CSE Student](https://img.shields.io/badge/Year-CSE%202nd%20Year-blue?style=flat-square)](https://github.com/siddharth-kumar)
+[![CSE Student](https://img.shields.io/badge/Year-CSE%203rd%20Year-blue?style=flat-square)](https://github.com/siddharth-kumar)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-purple?style=flat-square)](https://github.com/siddharth-kumar)
 
 > *"My mission is to contribute to humanity's peak development in AI and ML — building meaningful intelligent systems."*
