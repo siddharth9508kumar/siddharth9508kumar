@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**, driven by a singular belief: **the future belongs to those who build it.**
+I'm a passionate Computer Science student specializing in **Artificial Intelligence** and **Machine Learning**, driven by a singular belief: **the future belongs to those who build it.  **
 
 ---
 
